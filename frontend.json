@@ -4,13 +4,13 @@
     "alerts": true,
     "map_view": true,
     "devices": false,
-    "offset_formular": false
+    "offset_formula": false
   },
   "development": {
     "notifications": true,
     "alerts": true,
     "map_view": true,
     "devices": true,
-    "offset_formular": true
+    "offset_formula": true
   }
 }
