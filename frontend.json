@@ -11,6 +11,6 @@
     "alerts": true,
     "map_view": true,
     "devices": true,
-    "offset_formula": true
+    "offset_formula": false
   }
 }
