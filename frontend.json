@@ -1,0 +1,16 @@
+{
+  "production": {
+    "notifications": true,
+    "alerts": true,
+    "map_view": true,
+    "devices": false,
+    "offset_formular": false
+  },
+  "development": {
+    "notifications": true,
+    "alerts": true,
+    "map_view": true,
+    "devices": true,
+    "offset_formular": true
+  }
+}
