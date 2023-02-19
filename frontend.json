@@ -4,7 +4,7 @@
     "alerts": true,
     "map_view": true,
     "devices": false,
-    "offset_formula": false
+    "offset_formula": true
   },
   "development": {
     "notifications": true,
